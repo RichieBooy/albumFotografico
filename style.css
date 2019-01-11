@@ -6,3 +6,7 @@
   .header p {
       font-size: 20px;
   }
+
+  .about-me {
+    opacity: 0.5;
+  }
