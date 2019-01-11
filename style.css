@@ -10,3 +10,7 @@
   .about-me {
     opacity: 0.5;
   }
+
+  .title {
+      font-weight: bold;
+  }
